@@ -9,7 +9,7 @@
     
     const cfg = {
                 scrollDuration : 800, // smoothscroll duration
-                mailChimpURL   : 'http://eepurl.com/ibdoxL' // mailchimp url
+                mailChimpURL   : 'https://eepurl.com/ibdoxL' // mailchimp url
                 };
     const $WIN = $(window);
 
